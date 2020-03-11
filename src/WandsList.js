@@ -9,7 +9,7 @@ function WandsList(props) {
   //Will be rendered on the screen
   return (
     <div className="wands">
-      <h3>Wands</h3>
+      <h3 className="display-4 text-white">Wands</h3>
       <div className="row">{wandList}</div>
     </div>
   );

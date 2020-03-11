@@ -6,7 +6,7 @@ import WandsList from "./WandsList";
 
 function App() {
   return (
-    <div id="app" className="container-fluid">
+    <div id="app" className="container-fluid bg-dark">
       <div className="row">
         <div className="col-1"></div>
         <div className="content col-10">
